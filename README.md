@@ -13,7 +13,7 @@ On the web development side, I work with **modern JavaScript frameworks** and **
 Beyond game development, I enjoy exploring new technologies, automating workflows, and contributing to open-source projects whenever I get the chance.  
 
 📍 Based in: `Portugal`  
-📫 Contact: `[nelson.coutinho02@gmail.com]`  
+📫 Contact: `[nelson.coutinho02@gmail.com](mailto:nelson.coutinho02@gmail.com)`  
 
 ---
 ### 🔧 Tech Stack & Tools  
