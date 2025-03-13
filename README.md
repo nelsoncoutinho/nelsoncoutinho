@@ -31,7 +31,6 @@ Beyond game development, I enjoy exploring new technologies, automating workflow
 
 #### 🛠️ Game Development & Modding  
 ![FiveM](https://img.shields.io/badge/-FiveM-FB923C?style=flat&logo=fivem&logoColor=white)  
-![SA:MP](https://img.shields.io/badge/-Multi_Theft_Auto-4285F4?style=flat&logo=rockstargames&logoColor=white)  
 
 ---
 ### 📣 Connect With Me  
