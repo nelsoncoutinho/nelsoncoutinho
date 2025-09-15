@@ -12,6 +12,11 @@ On the web development side, I work with **modern JavaScript frameworks** and **
 
 Beyond game development, I enjoy exploring new technologies, automating workflows, and contributing to open-source projects whenever I get the chance.  
 
+🚀 Current Project
+
+**UtopiaRP** (FiveM Server / Web)
+A roleplay project that combines immersive GTA V gameplay with a custom-built web platform. The system integrates player accounts, in-game economy, organization management, inventories, garages, and administration tools — all designed to enhance both gameplay and community engagement.
+
 📍 Based in: `Portugal`  
 📫 Contact: `nelson.coutinho02@gmail.com`  
 
