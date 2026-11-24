@@ -19,14 +19,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer, Founder and Technology Enthusiast** with a passion for building scalable, reliable and impactful digital products.
+I'm a **Full-Stack Developer and Technology Enthusiast** with a passion for building scalable, reliable and impactful digital products.
 
 My experience goes beyond writing code. I design, develop, deploy and maintain complete digital ecosystems — connecting frontend experiences, backend architectures, databases, infrastructure and business operations.
 
 I enjoy transforming complex challenges into practical solutions that deliver real value to businesses and communities.
 
 - 🌍 Portuguese developer based in Germany.
-- 🚀 Founder and Developer of UtopiaRP.
+- 🚀 Developer of UtopiaRP.
 - 💻 Focused on full-stack development and backend engineering.
 - ⚙️ Experienced in automation, system integrations and infrastructure.
 - 📈 Driven by performance, innovation and continuous improvement.
