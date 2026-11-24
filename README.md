@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:1E3A8A,100:7C3AED&amp;height=250&amp;section=header&amp;text=Nelson%20Coutinho&amp;fontSize=55&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=Software%20Engineer%20-%20Full-Stack%20%26%20Mobile%20Developer&amp;descAlignY=58&amp;descSize=19" alt="Nelson Coutinho - Software Engineer"/>
+<img src="./banner.svg" width="100%" alt="Nelson Coutinho"/>
 
 **Building scalable digital solutions across Web, Android, iOS and Cloud.**
 
